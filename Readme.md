@@ -9,7 +9,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##  1. BLACK PANTHER XMD X5 LETEST
+##  1. BLACK PANTHER XMD
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
 
