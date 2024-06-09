@@ -1,6 +1,6 @@
 ## Hell welcome to deployment site tap on any bot that you want to deploy
 
-## [You can deploy all them bt use different session]
+## You can deploy all of them bt use different session
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -20,7 +20,7 @@
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)
 
-[Get bmw session here](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)
+**[Get bmw session here](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)**
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
