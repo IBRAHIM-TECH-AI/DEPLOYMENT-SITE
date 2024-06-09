@@ -31,9 +31,11 @@
 
 
 
-## MADE BY IBRAHIM ADAMS
+## Follow wachannel to be the fast one to be receiving updates
 
-## BEST BOTS TO USE
+
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
