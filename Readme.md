@@ -1,9 +1,9 @@
 <div align="center" id="top">
   
-  ## IBRAHIM ADAMS SCIENCE
+  # Ibrahim Adams Science
 
 
-## H𝚎𝚕𝚕𝚘 welcome to deployment site tap on any bot that you want to deploy
+## Hello welcome to deployment site tap on any bot that you want to deploy
 
 ## You can deploy all of them bt use different session
 
@@ -22,6 +22,10 @@
 **[Get bmw session here](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+##  3. Developer Info
+
+[Tap Here open](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
 
 
 
