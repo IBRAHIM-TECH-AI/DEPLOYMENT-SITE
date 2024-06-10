@@ -27,7 +27,7 @@
 
 [Tap Here open](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
 
-
+# Star ✨ the repo if you don't mind 
 
 ## Follow wachannel to be the fast one to be receiving updates
 
