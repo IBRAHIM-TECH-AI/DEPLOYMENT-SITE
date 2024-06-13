@@ -1,3 +1,4 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <div align="center" id="top">
   
   # Ibrahim Adams Science
@@ -7,27 +8,37 @@
 
 ## You can deploy all of them bt use different session
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  1. BLACK PANTHER XMD
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+##  1. PANTHER MD (No ban on heroku)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-##  2. BMW MD
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##  2. BMW MD (No ban on heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)
 
 **[Get bmw session here](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)**
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##  3. BLACK PANTHER XMD (Do not deploy on heroku)
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ##  3. Developer Info
 
 [Tap Here open](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
 
 # Star ✨ the repo if you don't mind 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Follow wachannel to be the fast one to be receiving updates
 
@@ -38,3 +49,4 @@
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
