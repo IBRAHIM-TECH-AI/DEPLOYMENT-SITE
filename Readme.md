@@ -10,24 +10,26 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+##  1. BLACK PANTHER XMD (No ban on heroku)
 
-##  1. PANTHER MD (No ban on heroku)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##  2. PANTHER MD (No ban on heroku)
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
 
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  2. BMW MD (No ban on heroku)
+
+##  3. BMW MD (No ban on heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-##  3. BLACK PANTHER XMD (Do not deploy on heroku)
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
