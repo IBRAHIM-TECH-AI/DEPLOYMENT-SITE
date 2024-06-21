@@ -10,13 +10,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  1. BLACK PANTHER XMD (No ban on heroku)
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-##  2. PANTHER MD (No ban on heroku)
+##  1. PANTHER MD (No ban on heroku)
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
@@ -25,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  3. BMW MD (No ban on heroku)
+##  2. BMW MD (No ban on heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)
 
@@ -33,13 +28,13 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  4. DEVELOPER INFO
+##  3. DEVELOPER INFO
 
 [Tap Here open](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  5. SESSION SITE
+##  4. SESSION SITE
 
 [Tap Here open](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)
 # Star ✨ the repo if you don't mind 
@@ -58,3 +53,9 @@
 # Thanks to God
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+##  BLACK PANTHER XMD (Ddon't deploy on heroku)
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
