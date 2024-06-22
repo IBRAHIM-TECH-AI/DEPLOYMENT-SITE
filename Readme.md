@@ -11,7 +11,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  1. BLACK PANTHER XMD (Fixed no ban on Heroku)
+##  1. BLACK PANTHER MD (Fixed no ban on Heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Error)
 
