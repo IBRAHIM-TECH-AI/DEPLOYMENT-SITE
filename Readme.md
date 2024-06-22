@@ -11,7 +11,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  1. PANTHER MD (No ban on heroku)
+##  1. BLACK PANTHER XMD (Fixed no ban on whatsapp
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Error)
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##  2. PANTHER MD (No ban on heroku)
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
@@ -20,7 +27,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  2. BMW MD (No ban on heroku)
+##  3. BMW MD (No ban on heroku)
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)
 
@@ -28,15 +35,16 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  3. DEVELOPER INFO
+##  4. DEVELOPER INFO
 
-[Tap Here open](https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO)
+<a href="https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEVELOPER-INFO -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  4. SESSION SITE
+##  5. SESSION SITE
 
-[Tap Here open](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)
+<a href="https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/SESSION-SITE -h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 # Star ✨ the repo if you don't mind 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -54,8 +62,3 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  BLACK PANTHER XMD (Ddon't deploy on heroku)
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
