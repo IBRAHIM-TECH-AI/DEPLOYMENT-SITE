@@ -27,9 +27,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  3. BMW MD (Closed Gor Maintenance)
+##  3. BMW MD (Closed For Maintenance)
 
-[![Closed For Maintenance](https://www.herokucdn.com/deploy/button.svg)](https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X)
+[![Closed For Maintenance](https://www.herokucdn.com/deploy/button.svg)](https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y)
 
 
 
