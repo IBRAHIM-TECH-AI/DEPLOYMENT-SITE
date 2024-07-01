@@ -32,6 +32,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Bmw-xmd)
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## 4. BELTAH MD (Friend bot. No ban on heroku)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
