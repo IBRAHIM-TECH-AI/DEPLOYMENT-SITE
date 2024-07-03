@@ -19,7 +19,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  2. PANTHER MD (No Save On heroku)
+##  2. PANTHER MD (Not Save On heroku)
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
