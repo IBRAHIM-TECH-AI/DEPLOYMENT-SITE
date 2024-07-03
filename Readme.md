@@ -11,14 +11,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  1. BLACK PANTHER MD (Fixed no ban on Heroku)
+##  1. BMW MD (New version, No heroku ban)[100% save on heroku]
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Error)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Bmw-xmd)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-##  2. PANTHER MD (No ban on heroku)
+##  2. PANTHER MD (No Save On heroku)
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/ibrahimaitech/BLACK-PANTHER-V2)
@@ -27,9 +28,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##  3. BMW MD (New version, No heroku ban)
+##  3. BLACK PANTHER MD (Not Save On Heroku)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Bmw-xmd)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https://github.com/kingibrahimtech/Error)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
